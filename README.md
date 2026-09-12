@@ -1,22 +1,6 @@
-# Expense Tracker App — Starter Project
+# Aplikasi Catatan Menggunakan React
 
-Selamat datang di *starter project* submission kelas **Front-End Web Pemula**! 🎉
-
-Proyek ini sudah dilengkapi dengan tampilan HTML dan CSS yang siap pakai. Tugas Anda adalah melengkapi logika JavaScript-nya di berkas `main.js` agar aplikasi berfungsi sepenuhnya.
-
----
-
-## Struktur Berkas
-
-```
-expense-tracker-starter-project/
-├── index.html   ← Struktur halaman (jangan diubah, kecuali bagian greeting)
-├── style.css    ← Tampilan visual (bebas dimodifikasi untuk portofolio)
-├── main.js      ← Tempat Anda menulis seluruh logika JavaScript
-└── README.md    ← Panduan ini
-```
-
----
+Selamat datang di *project Aplikasi Catatan Menggunakan React* 
 
 ## Cara Menjalankan Proyek
 
@@ -35,8 +19,14 @@ expense-tracker-starter-project/
     ```
 5. **Buka browser** dan akses aplikasi di http://localhost:5173 (port bisa berbeda tergantung konfigurasi)
 
+**Catatan**
+* Pastikan memiliki Node.js versi 18 atau lebih tinggi
+* Development server akan berjalan otomatis dan restart saat ada perubahan kode
 
-## Tampilan Expense Tracker App
+## Tampilan Aplikasi Catatan Menggunakan React
 
-<img width="960" height="504" alt="Screenshot 2026-09-11 113853" src="https://github.com/user-attachments/assets/35cd06ba-4bfc-4635-80ce-062176b22af8" />
+<img width="960" height="504" alt="Screenshot 2026-09-12 072829" src="https://github.com/user-attachments/assets/d2921df8-1c6a-4e21-a739-468c42e17b04" />
+<img width="960" height="504" alt="Screenshot 2026-09-12 072817" src="https://github.com/user-attachments/assets/22b19ee9-e53f-4a9b-8ec3-8649e038c739" />
+<img width="960" height="504" alt="Screenshot 2026-09-12 072806" src="https://github.com/user-attachments/assets/b6174a67-d7ef-445d-beb3-511b6d2459da" />
+
 
